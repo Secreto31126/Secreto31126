@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Secreto31126
-- 👀 I’m interested in ...
+- 👀 I’m interested in anything interesting
 - 🌱 I’m currently learning RPi
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me you don't. I reach you :)
